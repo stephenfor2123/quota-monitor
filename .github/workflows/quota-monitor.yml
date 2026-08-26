@@ -1,0 +1,48 @@
+name: quota-monitor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # 每 5 分钟
+  workflow_dispatch: {}      # 手动触发
+  push:
+    paths:
+      - "monitor.py"
+      - "config.json"
+      - ".github/workflows/*.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (含历史 data/)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || true
+
+      - name: Run quota monitor
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python monitor.py
+
+      - name: Commit snapshot & event log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "auto: update quota snapshot [skip ci]"
+          git push

@@ -1,0 +1,11 @@
+{
+  "svcId": 579,
+  "endpoint": "https://eservices.es2.immd.gov.hk/surgecontrolgate/ticket/getSituation",
+  "referer": "https://eservices.es2.immd.gov.hk/es/quota-enquiry-client/",
+  "days_window": 10,
+  "offices": ["RHK", "RKO", "RTK", "FTO", "TMO", "YLO"],
+  "notify_cooldown_sec": 300,
+  "notify_on_release_only": true,
+  "request_timeout_sec": 20,
+  "webhook_type": "feishu"
+}
