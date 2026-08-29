@@ -7,16 +7,18 @@
 ## 工作原理
 
 ```
-GitHub Actions（每 5 分钟 cron）
-      │  python monitor.py
-      │  ├─ 抓入境处公开配额接口（只读，一次一请求）
-      │  ├─ 与仓库里上一轮快照 diff → 放号事件
-      │  ├─ 命中放号 → 飞书 webhook 通知（带冷却防抖）
-      │  └─ commit data/ 快照到仓库（作为下一轮比对基准）
-      ▼
+cron-job.org（每 5 分钟）──▶ GitHub API workflow_dispatch
+                            │  python monitor.py
+                            │  ├─ 抓入境处公开配额接口（只读，一次一请求）
+                            │  ├─ 与仓库里上一轮快照 diff → 放号事件
+                            │  ├─ 命中放号 → 飞书 webhook 通知（带冷却防抖）
+                            │  └─ commit data/ 快照到仓库（作为下一轮比对基准）
+                            ▼
   data/quota.json       # 当前快照
   data/events.jsonl     # 历史事件日志（放号/收紧/新日期）
 ```
+
+> GitHub 自带 schedule 不可靠（常延迟数小时），已改为外部定时器触发。配置步骤见 [docs/cron-setup.md](docs/cron-setup.md)。
 
 ## 监控的 6 家办事处
 
@@ -57,11 +59,11 @@ gh repo create YOUR_GITHUB_USERNAME/quota-monitor --public --source=. --push
 
 > Secret 保存后不可查看。放号通知只发这条 webhook。
 
-### 3. Action 自动启用
+### 3. 配置外部定时器（每 5 分钟）
 
-推送后 `.github/workflows/quota-monitor.yml` 会自动注册。默认 **每 5 分钟** 跑一次，公开仓库的 Actions 免费额度足以覆盖。
+按 [docs/cron-setup.md](docs/cron-setup.md)：创建 GitHub PAT → 在 [cron-job.org](https://cron-job.org/) 建 POST 任务，每 5 分钟触发 `workflow_dispatch`。
 
-> 注意：定时 cron 首次启用后可能需要几分钟才生效，可在仓库 **Actions** 页点 **Run workflow**（workflow_dispatch）手动跑一次验证。
+公开仓库的 Actions 标准 runner 免费。也可在仓库 **Actions** 页点 **Run workflow** 手动验证。
 
 ---
 
