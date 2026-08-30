@@ -49,3 +49,4 @@
 {"ts": "08/26/2026 15:37:48", "type": "quota_released", "office": "RHK", "officeName": "灣仔", "date": "2026-09-02", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
 {"ts": "08/26/2026 16:24:24", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-09-02", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
 {"ts": "08/30/2026 09:55:14", "type": "quota_released", "office": "RHK", "officeName": "灣仔", "date": "2026-09-02", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
+{"ts": "08/30/2026 10:00:24", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-09-02", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
