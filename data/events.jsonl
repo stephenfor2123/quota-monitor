@@ -1235,3 +1235,6 @@
 {"ts": "10/08/2026 16:15:21", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-15", "weekday": "周四", "slot": "R", "from": "y", "to": "r"}
 {"ts": "10/08/2026 16:40:22", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-10-09", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
 {"ts": "10/08/2026 16:45:21", "type": "quota_released", "office": "RTK", "officeName": "將軍澳", "date": "2026-10-09", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
+{"ts": "10/08/2026 16:50:25", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-10-09", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
+{"ts": "10/08/2026 16:50:25", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-09", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
+{"ts": "10/08/2026 16:50:25", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-10", "weekday": "周六（周末）", "slot": "R", "from": "r", "to": "y"}
