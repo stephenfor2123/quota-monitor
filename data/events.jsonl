@@ -1585,3 +1585,5 @@
 {"ts": "10/12/2026 18:10:19", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-13", "weekday": "周二", "slot": "R", "from": "y", "to": "r"}
 {"ts": "10/12/2026 23:10:20", "type": "quota_released", "office": "TMO", "officeName": "屯門", "date": "2026-10-13", "weekday": "周二", "slot": "R", "from": "r", "to": "y"}
 {"ts": "10/12/2026 23:10:20", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-13", "weekday": "周二", "slot": "R", "from": "r", "to": "y"}
+{"ts": "10/12/2026 23:25:17", "type": "quota_shrunk", "office": "TMO", "officeName": "屯門", "date": "2026-10-13", "weekday": "周二", "slot": "R", "from": "y", "to": "r"}
+{"ts": "10/12/2026 23:25:17", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-13", "weekday": "周二", "slot": "R", "from": "y", "to": "r"}
