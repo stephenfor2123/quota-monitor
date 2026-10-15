@@ -1834,3 +1834,5 @@
 {"ts": "10/15/2026 11:35:18", "type": "quota_released", "office": "RTK", "officeName": "將軍澳", "date": "2026-10-16", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
 {"ts": "10/15/2026 11:35:18", "type": "quota_released", "office": "RTK", "officeName": "將軍澳", "date": "2026-10-21", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
 {"ts": "10/15/2026 11:35:18", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-21", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
+{"ts": "10/15/2026 11:45:20", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-10-16", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
+{"ts": "10/15/2026 11:45:20", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-10-16", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
