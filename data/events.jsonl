@@ -1945,3 +1945,5 @@
 {"ts": "10/18/2026 10:20:21", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-10-21", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
 {"ts": "10/18/2026 10:20:21", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-21", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
 {"ts": "10/18/2026 10:20:21", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-22", "weekday": "周四", "slot": "R", "from": "y", "to": "r"}
+{"ts": "10/18/2026 11:35:19", "type": "quota_released", "office": "FTO", "officeName": "火炭", "date": "2026-10-27", "weekday": "周二", "slot": "R", "from": "r", "to": "y"}
+{"ts": "10/18/2026 11:35:19", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-21", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
