@@ -2234,3 +2234,4 @@
 {"ts": "10/22/2026 13:20:22", "type": "quota_released", "office": "TMO", "officeName": "屯門", "date": "2026-10-27", "weekday": "周二", "slot": "R", "from": "r", "to": "y"}
 {"ts": "10/22/2026 13:20:22", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-27", "weekday": "周二", "slot": "R", "from": "r", "to": "y"}
 {"ts": "10/22/2026 13:20:22", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-30", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
+{"ts": "10/22/2026 13:30:25", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-10-27", "weekday": "周二", "slot": "R", "from": "r", "to": "y"}
