@@ -2397,3 +2397,4 @@
 {"ts": "10/25/2026 14:05:17", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-10-26", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
 {"ts": "10/25/2026 14:05:17", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-26", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
 {"ts": "10/25/2026 14:05:17", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-28", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
+{"ts": "10/25/2026 14:10:21", "type": "quota_shrunk", "office": "TMO", "officeName": "屯門", "date": "2026-10-26", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
