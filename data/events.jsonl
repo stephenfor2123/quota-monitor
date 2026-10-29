@@ -2848,3 +2848,4 @@
 {"ts": "10/29/2026 15:50:20", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-10-30", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
 {"ts": "10/29/2026 15:50:20", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-10-30", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
 {"ts": "10/29/2026 16:05:17", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-10-30", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
+{"ts": "10/29/2026 16:20:25", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-10-30", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
