@@ -3692,3 +3692,4 @@
 {"ts": "11/06/2026 14:50:21", "type": "quota_shrunk", "office": "FTO", "officeName": "火炭", "date": "2026-11-11", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/06/2026 14:50:21", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-11-12", "weekday": "周四", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/06/2026 15:05:17", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-09", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/06/2026 16:55:17", "type": "quota_released", "office": "RTK", "officeName": "將軍澳", "date": "2026-11-09", "weekday": "周一", "slot": "R", "from": "r", "to": "g"}
