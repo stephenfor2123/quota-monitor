@@ -4018,3 +4018,4 @@
 {"ts": "11/09/2026 17:05:18", "type": "quota_released", "office": "FTO", "officeName": "火炭", "date": "2026-11-10", "weekday": "周二", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/09/2026 17:35:19", "type": "quota_shrunk", "office": "FTO", "officeName": "火炭", "date": "2026-11-10", "weekday": "周二", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/09/2026 18:05:19", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-11", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/09/2026 19:55:18", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-11", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
