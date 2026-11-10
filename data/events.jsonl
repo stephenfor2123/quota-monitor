@@ -4142,3 +4142,4 @@
 {"ts": "11/10/2026 16:45:21", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-17", "weekday": "周二", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/10/2026 16:55:18", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-16", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/10/2026 17:00:35", "type": "quota_released", "office": "FTO", "officeName": "火炭", "date": "2026-11-11", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/10/2026 17:10:23", "type": "quota_released", "office": "TMO", "officeName": "屯門", "date": "2026-11-11", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
