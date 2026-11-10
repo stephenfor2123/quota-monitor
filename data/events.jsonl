@@ -4171,3 +4171,4 @@
 {"ts": "11/10/2026 21:30:29", "type": "quota_shrunk", "office": "TMO", "officeName": "屯門", "date": "2026-11-11", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/10/2026 21:40:22", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-11-13", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/10/2026 21:55:19", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-11-11", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/10/2026 22:45:22", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-12", "weekday": "周四", "slot": "R", "from": "y", "to": "r"}
