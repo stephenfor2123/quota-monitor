@@ -4538,3 +4538,6 @@
 {"ts": "11/13/2026 10:40:21", "type": "quota_released", "office": "RHK", "officeName": "灣仔", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/13/2026 10:40:21", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-11-14", "weekday": "周六（周末）", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/13/2026 10:40:21", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/13/2026 10:45:21", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/13/2026 10:45:21", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-14", "weekday": "周六（周末）", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/13/2026 10:45:21", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
