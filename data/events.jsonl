@@ -4602,3 +4602,6 @@
 {"ts": "11/13/2026 17:10:25", "type": "quota_released", "office": "TMO", "officeName": "屯門", "date": "2026-11-14", "weekday": "周六（周末）", "slot": "R", "from": "r", "to": "g"}
 {"ts": "11/13/2026 17:10:25", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-11-14", "weekday": "周六（周末）", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/13/2026 17:40:21", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-14", "weekday": "周六（周末）", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/13/2026 17:55:17", "type": "quota_shrunk", "office": "TMO", "officeName": "屯門", "date": "2026-11-14", "weekday": "周六（周末）", "slot": "R", "from": "g", "to": "y"}
+{"ts": "11/13/2026 17:55:17", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-14", "weekday": "周六（周末）", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/13/2026 17:55:17", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-16", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
