@@ -4742,3 +4742,6 @@
 {"ts": "11/14/2026 16:35:25", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-19", "weekday": "周四", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/14/2026 16:35:25", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-23", "weekday": "周一", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/14/2026 16:35:25", "type": "quota_released", "office": "RTK", "officeName": "將軍澳", "date": "2026-11-19", "weekday": "周四", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/14/2026 16:55:18", "type": "quota_shrunk", "office": "FTO", "officeName": "火炭", "date": "2026-11-16", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/14/2026 16:55:18", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-11-16", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/14/2026 16:55:18", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-16", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
