@@ -4832,3 +4832,5 @@
 {"ts": "11/15/2026 11:10:22", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-19", "weekday": "周四", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/15/2026 11:15:21", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-19", "weekday": "周四", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/15/2026 11:20:23", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/15/2026 11:35:28", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-16", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/15/2026 11:35:28", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-23", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
