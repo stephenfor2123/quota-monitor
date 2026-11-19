@@ -5486,3 +5486,7 @@
 {"ts": "11/19/2026 15:20:22", "type": "quota_shrunk", "office": "TMO", "officeName": "屯門", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/19/2026 15:20:22", "type": "quota_shrunk", "office": "YLO", "officeName": "元朗", "date": "2026-11-23", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/19/2026 15:35:19", "type": "quota_shrunk", "office": "FTO", "officeName": "火炭", "date": "2026-11-24", "weekday": "周二", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/19/2026 16:55:19", "type": "quota_released", "office": "FTO", "officeName": "火炭", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/19/2026 16:55:19", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-11-20", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/19/2026 16:55:19", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-11-25", "weekday": "周三", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/19/2026 16:55:19", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-11-26", "weekday": "周四", "slot": "R", "from": "r", "to": "y"}
