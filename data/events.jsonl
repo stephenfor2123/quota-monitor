@@ -5718,3 +5718,4 @@
 {"ts": "11/21/2026 10:15:22", "type": "quota_released", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-26", "weekday": "周四", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/21/2026 10:20:22", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-11-25", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/21/2026 10:20:22", "type": "quota_shrunk", "office": "RKO", "officeName": "長沙灣", "date": "2026-11-26", "weekday": "周四", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/21/2026 10:35:20", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-11-26", "weekday": "周四", "slot": "R", "from": "y", "to": "r"}
