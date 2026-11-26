@@ -6528,3 +6528,4 @@
 {"ts": "11/26/2026 14:55:19", "type": "quota_released", "office": "TMO", "officeName": "屯門", "date": "2026-11-28", "weekday": "周六（周末）", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/26/2026 14:55:19", "type": "quota_released", "office": "TMO", "officeName": "屯門", "date": "2026-12-04", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
 {"ts": "11/26/2026 14:55:19", "type": "quota_released", "office": "YLO", "officeName": "元朗", "date": "2026-12-04", "weekday": "周五", "slot": "R", "from": "r", "to": "y"}
+{"ts": "11/26/2026 15:00:36", "type": "quota_shrunk", "office": "TMO", "officeName": "屯門", "date": "2026-11-28", "weekday": "周六（周末）", "slot": "R", "from": "y", "to": "r"}
