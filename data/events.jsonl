@@ -6709,3 +6709,4 @@
 {"ts": "11/27/2026 20:55:20", "type": "quota_shrunk", "office": "FTO", "officeName": "火炭", "date": "2026-11-30", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/27/2026 20:55:20", "type": "quota_shrunk", "office": "FTO", "officeName": "火炭", "date": "2026-12-02", "weekday": "周三", "slot": "R", "from": "y", "to": "r"}
 {"ts": "11/27/2026 20:55:20", "type": "quota_shrunk", "office": "RHK", "officeName": "灣仔", "date": "2026-11-30", "weekday": "周一", "slot": "R", "from": "y", "to": "r"}
+{"ts": "11/27/2026 21:10:38", "type": "quota_shrunk", "office": "RTK", "officeName": "將軍澳", "date": "2026-11-30", "weekday": "周一", "slot": "R", "from": "g", "to": "y"}
